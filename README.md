@@ -10,8 +10,10 @@ I am a highly skilled Full Stack Java Developer with 7+ years of experience desi
 ---
 
 ## Work Experience  
+
+
 ### **Full Stack Java Developer**  
-**ADM, USA**
+**ADM, USA**  
 *Nov 2023 – Present*  
 ●	Spearheaded the development of a high-throughput payment processing microservices architecture using Java 11 and Spring Boot 2.5, processing over 1.5 million transactions daily with 99.99% uptime.
 ●	Designed and implemented 7 event-driven microservices using Apache Kafka for message queuing, reducing system latency by 45% and improving scalability.
